@@ -1,4 +1,4 @@
-# Shell Scripting — Summary
+# Shell Scripting
 
 ---
 
